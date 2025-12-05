@@ -1,0 +1,7 @@
+{
+  "name": "Hand Gesture Fireworks",
+  "description": "An AR experience where pinching your fingers creates fireworks.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
